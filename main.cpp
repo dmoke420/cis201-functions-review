@@ -1,4 +1,10 @@
-#include<iostream>
+/**
+File main.cpp
+Developer: Lorenzo Cooper 
+Email: cooperl145799@student.vvc.edu
+date: 10-16-2018
+Descrption Input : counts how many a's
+**/
 
 #include<string>
 
@@ -8,10 +14,6 @@ using namespace std;
 
 int a_search(string p);
 bool is_a(char a);
-
-
-
-
 
 
 
