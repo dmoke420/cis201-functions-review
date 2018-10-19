@@ -6,6 +6,8 @@ date: 10-16-2018
 Descrption Input : counts how many a's
 **/
 
+#include<iostream>
+
 #include<string>
 
 #include<cctype>
